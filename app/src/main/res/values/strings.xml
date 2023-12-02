@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAPP</string>
+    <string name="text_value">Olá Mundo</string>
+</resources>
